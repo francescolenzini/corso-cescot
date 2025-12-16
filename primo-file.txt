@@ -1,0 +1,2 @@
+questo è un file esempio
+consente di verificare il funzionamento del controllo di versione
